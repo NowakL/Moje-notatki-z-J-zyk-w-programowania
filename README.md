@@ -179,9 +179,7 @@
 			else printf("Brak rozwiazan.\n");
 			}
 
-'
-
- 2. Znajdz liczby o tej wlasnosci, ze suma dzielnikow wlasciwych liczby jest rowna zadanej liczbie, np. 6=1+2+3. Sa to tak zwane liczby doskonale.
+'2. Znajdz liczby o tej wlasnosci, ze suma dzielnikow wlasciwych liczby jest rowna zadanej liczbie, np. 6=1+2+3. Sa to tak zwane liczby doskonale.
 
 '
 
