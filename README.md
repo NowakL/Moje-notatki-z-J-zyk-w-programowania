@@ -109,7 +109,7 @@
 		
 		
 	return 0;
-}
+	}
 
 '4. Oblicz za pomoca petli for i while sume kwadratow liczb od 3 do 15.
 
