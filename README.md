@@ -34,7 +34,8 @@
 	printf("\n");
 	
 	return 0;}
-' 2. Wypisz liczbyod -3.5 do 7.5 z krokiem co 0.5 za pomoca petli for i while.
+' 
+	2. Wypisz liczbyod -3.5 do 7.5 z krokiem co 0.5 za pomoca petli for i while.
 
 '
 
@@ -71,9 +72,9 @@
 
 '
 
-#include <stdio.h>
+	#include <stdio.h>
 
-main() {
+	main() {
 	int i, n, k, s;
 	
 	printf("Podaj liczbe naturalna: ");
@@ -115,10 +116,10 @@ main() {
 
 '
 
-#include <stdio.h>
+	#include <stdio.h>
 
 
-main(){
+	main(){
 	
 	int i, n, k;
 	n=0;
@@ -152,10 +153,10 @@ main(){
 
 '
 
-#include <stdio.h>
-#include <math.h>
+	#include <stdio.h>
+	#include <math.h>
 
-main(){
+	main(){
 
 	double a ,b , c, x1, x2, x, delta;
 	x1, x2 =0;
@@ -185,9 +186,9 @@ main(){
 
 '
 
-# include <stdio.h>
+	# include <stdio.h>
 
-main(){
+	main(){
 	int i, liczba, suma;
 	puts("Podaj liczbe: \n");
 	scanf("%d",&liczba);
