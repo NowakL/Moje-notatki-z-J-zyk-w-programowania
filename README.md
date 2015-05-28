@@ -5,14 +5,14 @@
 1. Wypisz liczby calkowite od 0 do 23 za pomoca petli for, while i do-while.
 
 
-'`
-main() {
-int i;
-i=0;
+'
+	main() {
+	int i;
+	i=0;
 
- do {
- printf("%d ", i);
- i++;
+ 	do {
+	 printf("%d ", i);
+	 i++;
 				}
 
 	while(i<=23);
