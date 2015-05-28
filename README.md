@@ -8,7 +8,7 @@
 # include <stdio.h>
 
 main() {
-	int i;
+int i;
 i=0;
 
  do {
@@ -16,17 +16,17 @@ i=0;
  i++;
 				}
 
-	while(i<=23);
-	printf("\n");				
+while(i<=23);
+printf("\n");				
 
-	i=0;
+i=0;
 
- 	while(i<=23){
+ while(i<=23){
 	
-	printf("%d ", i);
-	i++;
-														}	
-		printf("\n");
+printf("%d ", i);
+i++;
+	}	
+	printf("\n");
 		
 	for(i=0; i<=23; i++)
 	printf("%d ", i);
