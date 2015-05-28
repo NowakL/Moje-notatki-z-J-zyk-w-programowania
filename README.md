@@ -36,3 +36,36 @@
 	return 0;}
 '
 
+2. Wypisz liczbyod -3.5 do 7.5 z krokiem co 0.5 za pomoca petli for i while.
+
+'
+
+#include <stdio.h>
+
+main(){
+double i, step;
+	
+step=0.5;
+
+		for(i=-3.5;i<=7.5;i++)
+		{
+		printf("%.1lf \n", i);
+		i=i-step;
+		
+		}
+		printf("\n");
+		
+		
+	i=-3.5;
+	step=0.5;
+	
+		while(i<=7.5){
+		printf("%.1lf \n", i);
+		i=i+step;
+		}
+	
+	return 0;
+	
+}
+'
+
