@@ -4,8 +4,8 @@
 
 1. Wypisz liczby calkowite od 0 do 23 za pomoca petli for, while i do-while.
 
-`
-# include <stdio.h>
+
+``#include <stdio.h>
 
 main() {
 int i;
@@ -16,15 +16,15 @@ i=0;
  i++;
 				}
 
-while(i<=23);
-printf("\n");				
+	while(i<=23);
+	printf("\n");				
 
-i=0;
+	i=0;
 
- while(i<=23){
+ 	while(i<=23){
 	
-printf("%d ", i);
-i++;
+	printf("%d ", i);
+	i++;
 	}	
 	printf("\n");
 		
@@ -33,5 +33,5 @@ i++;
 	printf("\n");
 	
 	return 0;
-}
-`
+}''
+
