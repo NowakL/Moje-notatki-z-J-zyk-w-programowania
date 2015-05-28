@@ -34,9 +34,7 @@
 	printf("\n");
 	
 	return 0;}
-'
-
- 2. Wypisz liczbyod -3.5 do 7.5 z krokiem co 0.5 za pomoca petli for i while.
+' 2. Wypisz liczbyod -3.5 do 7.5 z krokiem co 0.5 za pomoca petli for i while.
 
 '
 
@@ -69,9 +67,7 @@
  	}
 
 
-'
-
- 3. Wypisz kwadraty i szesciany liczb naturalnych od 1 do liczby podanej przez uzytkownika za pomoca petli for, while i do-while.
+' 3. Wypisz kwadraty i szesciany liczb naturalnych od 1 do liczby podanej przez uzytkownika za pomoca petli for, while i do-while.
 
 '
 
@@ -115,9 +111,7 @@ main() {
 	return 0;
 }
 
-'
-
- 4. Oblicz za pomoca petli for i while sume kwadratow liczb od 3 do 15.
+'4. Oblicz za pomoca petli for i while sume kwadratow liczb od 3 do 15.
 
 '
 
