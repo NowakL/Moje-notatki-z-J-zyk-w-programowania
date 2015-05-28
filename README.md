@@ -2,7 +2,7 @@
 
 # Zadania na Petle
 
-1. Wypisz liczby calkowite od 0 do 23 za pomoca petli for, while i do-while.
+ 1. Wypisz liczby calkowite od 0 do 23 za pomoca petli for, while i do-while.
 
 
 '
@@ -36,7 +36,7 @@
 	return 0;}
 '
 
-2. Wypisz liczbyod -3.5 do 7.5 z krokiem co 0.5 za pomoca petli for i while.
+ 2. Wypisz liczbyod -3.5 do 7.5 z krokiem co 0.5 za pomoca petli for i while.
 
 '
 
@@ -71,7 +71,7 @@
 
 '
 
-3. Wypisz kwadraty i szesciany liczb naturalnych od 1 do liczby podanej przez uzytkownika za pomoca petli for, while i do-while.
+ 3. Wypisz kwadraty i szesciany liczb naturalnych od 1 do liczby podanej przez uzytkownika za pomoca petli for, while i do-while.
 
 '
 
@@ -117,7 +117,7 @@ main() {
 
 '
 
-4. Oblicz za pomoca petli for i while sume kwadratow liczb od 3 do 15.
+ 4. Oblicz za pomoca petli for i while sume kwadratow liczb od 3 do 15.
 
 '
 
@@ -154,7 +154,7 @@ main(){
 
 # Zadania Warunkowe
 
-1. Napisz program liczacy pierwiastki trojmianu kwadratowego: a*x^2+b*x+c=0
+ 1. Napisz program liczacy pierwiastki trojmianu kwadratowego: a*x^2+b*x+c=0
 
 '
 
@@ -187,7 +187,7 @@ main(){
 
 '
 
-2. Znajdz liczby o tej wlasnosci, ze suma dzielnikow wlasciwych liczby jest rowna zadanej liczbie, np. 6=1+2+3. Sa to tak zwane liczby doskonale.
+ 2. Znajdz liczby o tej wlasnosci, ze suma dzielnikow wlasciwych liczby jest rowna zadanej liczbie, np. 6=1+2+3. Sa to tak zwane liczby doskonale.
 
 '
 
