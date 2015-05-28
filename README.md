@@ -70,11 +70,12 @@
 
 
 '
+
 3. Wypisz kwadraty i szesciany liczb naturalnych od 1 do liczby podanej przez uzytkownika za pomoca petli for, while i do-while.
 
 '
 
-# include <stdio.h>
+#include <stdio.h>
 
 main() {
 	int i, n, k, s;
@@ -120,7 +121,7 @@ main() {
 
 '
 
-# include <stdio.h>
+#include <stdio.h>
 
 
 main(){
