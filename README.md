@@ -34,9 +34,7 @@
 	printf("\n");
 	
 	return 0;}
-' 
-	
-	2. Wypisz liczbyod -3.5 do 7.5 z krokiem co 0.5 za pomoca petli for i while.
+' 2. Wypisz liczbyod -3.5 do 7.5 z krokiem co 0.5 za pomoca petli for i while.
 
 '
 
