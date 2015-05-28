@@ -6,7 +6,7 @@
 
 
 
-	main() {
+	'main() {
 	int i;
 	i=0;
 
@@ -31,5 +31,5 @@
 	printf("%d ", i);
 	printf("\n");
 	
-	return 0;}
+	return 0;}'
 
