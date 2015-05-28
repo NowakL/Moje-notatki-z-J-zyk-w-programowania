@@ -40,32 +40,33 @@
 
 '
 
-#include <stdio.h>
+	#include <stdio.h>
 
-main(){
-double i, step;
+	main(){
+	double i, step;
 	
-step=0.5;
+	step=0.5;
 
-		for(i=-3.5;i<=7.5;i++)
-		{
-		printf("%.1lf \n", i);
-		i=i-step;
+	for(i=-3.5;i<=7.5;i++)
+	{
+	printf("%.1lf \n", i);
+	i=i-step;
 		
-		}
-		printf("\n");
+	}
+	printf("\n");
 		
 		
 	i=-3.5;
 	step=0.5;
 	
-		while(i<=7.5){
-		printf("%.1lf \n", i);
+	while(i<=7.5){
+	printf("%.1lf \n", i);
 		i=i+step;
-		}
+	}
 	
 	return 0;
 	
 }
+
 '
 
