@@ -2,7 +2,7 @@
 
 # Zadania na Petle
 
-	1. Wypisz liczby calkowite od 0 do 23 za pomoca petli for, while i do-while.
+1. Wypisz liczby calkowite od 0 do 23 za pomoca petli for, while i do-while.
 
 
 '''
@@ -36,7 +36,7 @@
 	return 0;}
 '''
 
-	2. Wypisz liczbyod -3.5 do 7.5 z krokiem co 0.5 za pomoca petli for i while.
+2. Wypisz liczbyod -3.5 do 7.5 z krokiem co 0.5 za pomoca petli for i while.
 
 '''
 
