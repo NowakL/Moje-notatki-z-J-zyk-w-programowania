@@ -1,22 +1,19 @@
-## Notatki Jezyki programowania
+## Notatki języki programowania
 
 # Zadania na Petle
 
  1. Wypisz liczby calkowite od 0 do 23 za pomoca petli for, while i do-while.
 
+```c
+#include<stdio.h>
+main() {
+  int i;
+  i=0;
 
-'
-	
-	#include<stdio.h>
-	main() {
-	int i;
-	i=0;
-
- 	do {
-	 printf("%d ", i);
-	 i++;
+  do {
+    printf("%d ", i);
+    i++;
 				}
-
 	while(i<=23);
 	printf("\n");				
 
@@ -33,8 +30,11 @@
 	printf("%d ", i);
 	printf("\n");
 	
-	return 0;}
-' 2. Wypisz liczbyod -3.5 do 7.5 z krokiem co 0.5 za pomoca petli for i while.
+	return 0;
+}
+```
+
+2. Wypisz liczbyod -3.5 do 7.5 z krokiem co 0.5 za pomoca petli for i while.
 
 '
 
